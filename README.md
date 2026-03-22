@@ -1,4 +1,4 @@
-# Ringbot - Investment Risk Analysis Platform
+# Ringbot - Blog and Document Retrieval System
 
 > An AI-assisted content management and knowledge platform designed to help organizations create, manage, and retrieve information efficiently through structured content systems and intelligent interaction.
 
@@ -22,6 +22,7 @@ The platform provides:
 **Frontend**
 - React.js
 - React Router (navigation)
+
 **Backend**
 
 **AI & External Systems**
