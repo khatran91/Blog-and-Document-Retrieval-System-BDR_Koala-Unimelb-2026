@@ -39,6 +39,13 @@ cd Blog-and-Document-Retrieval-System-BDR_Koala-Unimelb-2026
 ```
 
 ## 📎 Documentation
+### Confluence Link: [SWEN90009-2026-BDR-Koala](https://feit-teaching.atlassian.net/wiki/spaces/SWEN9000927/overview?homepageId=672825681)
+
+**[Project Backgroud](https://feit-teaching.atlassian.net/wiki/spaces/SWEN9000927/pages/674857068/Project+Background)**
+
+**[Elicitation Document](https://feit-teaching.atlassian.net/wiki/spaces/SWEN9000927/pages/674332833/Elicitation+Documents)**
+
+**[Meetings](https://feit-teaching.atlassian.net/wiki/spaces/SWEN9000927/pages/682295298/Week2+Stand-up+Meeting)**
 
 ## 👥 Team
 
